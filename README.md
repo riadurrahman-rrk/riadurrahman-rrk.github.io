@@ -1,6 +1,4 @@
-এটা copy করে README.md তে দাও:
 
-```markdown
 # 👋 Hi, I'm Riadur Rahman
 
 > Frontend Developer · Android Developer · Web3 Enthusiast · MCP Server Builder
